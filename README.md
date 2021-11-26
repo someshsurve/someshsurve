@@ -1,8 +1,7 @@
 # Hi, `<Coders>` It’s me Somesh Surve
 - 👀 I’m Java Web/software Developer
 - 🌱 I’m currently improving by developer skills with Spring boot and Angular 2 (ver. 12)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=someshsurve&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
