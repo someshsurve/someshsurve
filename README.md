@@ -1,6 +1,5 @@
 # Hi, `<Coders>` It’s me Somesh Surve
-- 👀 I’m Java Web/software Developer
-- 🌱 I’m currently improving my developer skills with Spring boot and Angular 2 (ver. 12)
+- 👀 I’m Web/software Developer
 
 
 
